@@ -1,0 +1,71 @@
+git init
+git commit
+git add
+git status
+git merge
+git push
+git pull
+git clone
+git branch
+git check-out
+
+git init - The git init command is used to initialise a blank repository. it creates a .git folder in the current working directory.
+
+cmd - git init
+
+git commit - The git commit is used to save the changes to the local repository. The command helps you keep record of all the changes made
+
+cmd - git commit -m "initial commit"
+
+git add
+
+The git add command is used to add changes in the current directory to the staging area.
+
+cmd - git add .
+cmd - git add test.txt
+
+
+git status
+
+The git status command is used to display the state of the current repository and the staging area.
+
+
+git merge
+
+The git merge command is used to integrate different branches into a single branch
+
+
+git push
+
+The git push command is used to upload the content form the local repository to the remote repository
+
+cmd - git push origin master
+
+
+git pull
+
+The git pull command is used to fetch the new commits and merge them into the local branch
+
+git clone
+
+The git clone command is used to create a copy of the target repository or create a clone in a new directory at new place
+
+git branch
+
+
+A branch refers to an independant line of development. The git branch command is used to create, list, rename, and delete branches
+
+
+git check-out
+
+The git checkout command works together with the git branch command. The command enables the navigation between the branches
+
+
+cmd - git checkout master
+
+
+git config
+
+The git config command is used to set configurations like the name, email id etc. this information should be provided as soon as git is installed since it is used by Git at every commit.
+
+
