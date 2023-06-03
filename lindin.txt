@@ -1,0 +1,44 @@
+DevOps Engineer with 9+ years of experience in Administration, Automation, Change/Release/Build Management, Support and Maintenance in environments like Red Hat Enterprise Linux, Windows Servers, AWS cloud servers, Azure
+
+
+
+
+I am a Sr. Devops Engineer with experience in AWS Cloud Engineering and CI/CD pipelines. Experienced in using technologies such as DevOps, Amazon Web Services AWS, Docker Products, Cloud Computing, Docker, Helm. And familiar with creating containerization framework like Powershell and Ansible. Knowledge in building infrastructure automation via Python, Ansible, Windows Server
+
+
+
+Cloud Automation Engineer || VMware vRealize 8 || AWS
+
+VMware Cloud Professional 2017, AWS Associate Architect 2018 certified Cloud Administrator/Automation Engineer with 4+ years of experience in VMware vSphere,vRealize Suite,AWS,Servicenow,Powershell and REST API.
+
+Worked and expertise in ,
+
+ >Deploy and configure cloud infrastructure with VMware vRealize 
+ Automation/Orchestration/Operation and Business tools 7.x.
+ >Develop vmware private cloud infrastructure with vSphere 6.5.
+ >Develop automation workflows and power shell scripts using vRealize Automation/orchestrator stack
+ >Integrate Cloud with ITSM tools and Monitoring Tools.
+ >Develop automation script for windows and Linux cloud machines.
+ >Perform VMware vCenter Operations and Management
+
+Certifications:
+1.AWS Associate solution Architect 2018
+2.VMware vsphere fundamentals 6.
+3.VMware VCP CMA 7 2017
+4.Oracle Iaas Cloud 2018
+
+
+Cloud automation engineer| VMware vRealize Automation and Orchestrator | Ansible | AWS | JavaScript | Python
+
+
+AboutAbout
+- Currently working as cloud automation developer.
+
+- And has Hands -on to VMware vRealize Automation and VMware vRealize orchestrator tool.
+
+- Also Ansible , AWS EC2,AWS S3, Javascript, python, XML , json ,API .
+
+
+Cloud Automation | VMware Aria Automation | VMware Aria Automation Orchestrator | Terraform
+
+Cloud Automation Engineer with 4+ years of hands-on experience for developing private and public cloud automation use cases using VMware vRealize Orchestrator(vRO), vRealize Automation(vRA), Dell EMC Networker(Backup solution), Terraform(Infrastructure as code), VMware Horizon(vDI as service), F5 BIG-IP(Load Balancer as a service), AWS CLI.
